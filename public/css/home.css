@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+
+.ss{
+    height: 20%;
+    width: 60%;
+    /* background-color: coral; */
+    border: 5px solid rgb(111, 70, 23);
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 40px;
+}
+.sp{
+    font-size: xx-large;
+    margin: 100px;
+    padding: 5px;
+}
